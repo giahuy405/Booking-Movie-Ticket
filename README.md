@@ -1,4 +1,4 @@
 # Booking Movie Ticket Application
 
 ## Purpose : 
-- Practice redux 
+- Practice redux, learn action creator
